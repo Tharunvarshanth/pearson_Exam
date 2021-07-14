@@ -1,0 +1,1 @@
+sed -i 's/www.mx.iucr.org/www.imdb.com/g'  *.txt
